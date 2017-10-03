@@ -1,18 +1,40 @@
 # Certificates
-my certificates of learning
+Here are some of my certificates of learning
 
-![GitHub Logo](images/Certif_Page_01.png)
-![GitHub Logo](images/Certif_Page_02.png)
-![GitHub Logo](images/Certif_Page_03.png)
-![GitHub Logo](images/Certif_Page_04.png)
-![GitHub Logo](images/Certif_Page_05.png)
-![GitHub Logo](images/Certif_Page_06.png)
-![GitHub Logo](images/Certif_Page_07.png)
-![GitHub Logo](images/Certif_Page_08.png)
-![GitHub Logo](images/Certif_Page_09.png)
-![GitHub Logo](images/Certif_Page_10.png)
-![GitHub Logo](images/Certif_Page_11.png)
-![GitHub Logo](images/Certif_Page_12.png)
-![GitHub Logo](images/Certif_Page_13.png)
-![GitHub Logo](images/Certif_Page_14.png)
-![GitHub Logo](images/Certif_Page_15.png)
+## SQLs
+![GitHub Logo](images/SQL_certificate.jpg)
+![GitHub Logo](images/NoSQL.png)
+
+
+## Data Analysis
+![GitHub Logo](images/R_stat.png)
+![GitHub Logo](images/DS_foundation.png)
+![GitHub Logo](images/DSA_first.png)
+![GitHub Logo](images/SAS_base.jpg)
+
+
+## Java
+![GitHub Logo](images/Learning_java.png)
+
+
+## Web Full Stack
+![GitHub Logo](images/Web_full_stack.png)
+
+
+## Python 
+![GitHub Logo](images/Interactive_py.png)
+![GitHub Logo](images/Learning_py.png)
+![GitHub Logo](images/Edx_python.png)
+![GitHub Logo](images/Python3.png)
+
+
+## Raspberry pi
+![GitHub Logo](images/Learning_pi.png)
+![GitHub Logo](images/Rasp_home.png)
+
+## Alogrithms
+![GitHub Logo](images/Algorithms.png)
+
+## Design Pattern
+![GitHub Logo](images/Python_design.png)
+![GitHub Logo](images/OOD.png)
