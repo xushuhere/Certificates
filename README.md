@@ -4,12 +4,16 @@ Here are some of my certificates of learning:
 
 -------------------
 ## SQLs
-![GitHub Logo](images/SQL_certificate.jpg)
+![](images/SQL_certificate.jpg)
 ![GitHub Logo](images/NoSQL.png)
 
 -------------------
 ## Web Full Stack
 ![GitHub Logo](images/Web_full_stack.png)
+![GitHub Logo](images/cert-javascript.png)
+![GitHub Logo](images/cert-Ruby.png)
+
+
 
 -------------------
 ## Alogrithms
@@ -20,7 +24,7 @@ Here are some of my certificates of learning:
 ![GitHub Logo](images/Learning_java.png)
 
 -------------------
-## Python 
+## Python
 ![GitHub Logo](images/Interactive_py.png)
 ![GitHub Logo](images/Learning_py.png)
 ![GitHub Logo](images/Edx_python.png)
